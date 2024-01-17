@@ -22,7 +22,8 @@ Here are some of the projects I've been working on:
 
 ## Connect with Me
 
-- [Twitter/X]([your-Twitter-profile-link](https://twitter.com/TSkoldSkola))
+- [Twitter/X]
+  https://twitter.com/TSkoldSkola
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
