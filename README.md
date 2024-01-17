@@ -4,7 +4,7 @@ I'm Tobbe, a Student passionate about history and video games. Welcome to my Git
 ## About Me
 
 - 🌱 I'm currently learning data.
-- 💼 I study at Polhemskolan.
+- 💼 I study at Polhemsskolan.
 - 📫 You can reach me at tobias.skold@skola.gavle.se.
 
 ## My Projects
