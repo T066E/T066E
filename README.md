@@ -4,7 +4,7 @@ I'm Tobbe, a Student passionate about history and video games. Welcome to my Git
 ## About Me
 
 - 🌱 I'm currently learning data.
-- 💼 I work at Polhemskolan.
+- 💼 I study at Polhemskolan.
 - 📫 You can reach me at tobias.skold@skola.gavle.se.
 
 ## My Projects
@@ -16,8 +16,8 @@ Here are some of the projects I've been working on:
 ## Skills
 
 - [Skill 1] Lot of knowledge about video games 
-- [Skill 2] Like military history
-- [Skill 3] Like strategical games
+- [Skill 2] I like tanks
+- [Skill 3] Like strategical games (got no skills in them tho)
 - ...
 
 ## Connect with Me
