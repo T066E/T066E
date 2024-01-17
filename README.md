@@ -9,7 +9,7 @@ I'm Tobbe, a Student passionate about history and video games. Welcome to my Git
 
 ## My Projects
 
-Here are some of the projects I've been working on:
+Here are some of the projects I've been working on: 
 
 1. [Project 1]([link-to-project-1](https://github.com/Polhemsskolan-DATA/sidmallen-T066E)): I'm currently working on a website.
 
