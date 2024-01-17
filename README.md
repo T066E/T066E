@@ -1,9 +1,9 @@
 
-I'm Tobbe, a Student passionate about history and video games. Welcome to my GitHub profile!
+I'm Tobbe, a Student passionate about history, video games and data. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🌱 I'm currently learning data.
+- 🌱 I'm currently learning Data & Programming
 - 💼 I study at Polhemsskolan.
 - 📫 You can reach me at tobias.skold@skola.gavle.se.
 
@@ -16,14 +16,20 @@ Here are some of the projects I've been working on:
 ## Skills
 
 - [Skill 1] Lot of knowledge about video games 
-- [Skill 2] I like tanks
-- [Skill 3] Like strategical games (got no skills in them tho)
+- [Skill 2] Strategical games
+- [Skill 3] History nerd
 - ...
 
 ## Connect with Me
 
 - [Twitter/X]
   https://twitter.com/TSkoldSkola
+
+- [LinkedIn]
+  https://www.linkedin.com/in/tobias-sk%C3%B6ld-626a392aa/
+
+- [Discord]
+  tobbe0606
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
